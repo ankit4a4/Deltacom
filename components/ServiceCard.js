@@ -57,7 +57,7 @@ const ServiceCard = memo(({ service, index }) => {
 
             {/* CTA Button */}
             <Link
-              href={`/services/${service.slug}`}
+              href={`${service.slug}`}
               className="inline-flex items-center gap-2 px-4 py-2 bg-white/20 backdrop-blur-sm rounded-xl border border-white/20 text-[#e4ebf1] font-medium hover:bg-white/20 transition-colors duration-300 text-sm"
             >
               Learn More

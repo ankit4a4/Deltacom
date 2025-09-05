@@ -16,7 +16,7 @@ if (typeof window !== "undefined") {
 const SERVICES_DATA = [
   {
     id: "video-surveillance",
-    slug: "video-surveillance",
+    slug: "/services/video-surveillance",
     title: "Video Surveillance",
     subtitle: "CCTV Systems",
     description:
@@ -26,7 +26,7 @@ const SERVICES_DATA = [
   },
   {
     id: "access-control",
-    slug: "access-control",
+    slug: "/services/access-control",
     title: "Access Control",
     subtitle: "Security Systems",
     description:
@@ -36,17 +36,17 @@ const SERVICES_DATA = [
   },
   {
     id: "cybersecurity",
-    slug: "cybersecurity",
+    slug: "/cyber-security",
     title: "Cybersecurity",
     subtitle: "IT Services",
     description:
-      "Comprehensive network security and infrastructure design with endpoint protection.",
+      " Deltacom is a CMMC-certified cybersecurity provider, delivering compliance and readiness services to support Department of Defense contractors and subcontractors.",
     icon: Shield,
     backgroundImage: "/images/newImags/image1.png",
   },
   {
     id: "fire-protection",
-    slug: "fire-protection",
+    slug: "/services/fire-protection",
     title: "Fire Protection",
     subtitle: "Safety Systems",
     description:
@@ -56,7 +56,7 @@ const SERVICES_DATA = [
   },
   {
     id: "networking",
-    slug: "networking-solutions",
+    slug: "/services/networking-solutions",
     title: "Networking",
     subtitle: "Infrastructure",
     description:
@@ -66,7 +66,7 @@ const SERVICES_DATA = [
   },
   {
     id: "mobile-surveillance",
-    slug: "mobile-surveillance",
+    slug: "/services/mobile-surveillance",
     title: "Mobile Surveillance",
     subtitle: "Rapid Deployment",
     description:
