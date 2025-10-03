@@ -79,7 +79,6 @@ const Navigation = () => {
             ))}
           </div>
 
-          {/* Contact Info & CTA */}
           <div className="hidden lg:flex items-center gap-6">
             <div className="flex flex-col items-start gap-2 text-sm text-[#2a6f97]">
               <a
