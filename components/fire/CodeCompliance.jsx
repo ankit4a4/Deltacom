@@ -37,7 +37,7 @@ const CodeCompliance = () => {
             Code Compliance & Certification
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-12">
-            All our fire protection installations meet or exceed local fire
+            All our Intrusion & Fire Protection installations meet or exceed local fire
             codes and NFPA standards, ensuring your facility is fully compliant
             and properly protected.
           </p>

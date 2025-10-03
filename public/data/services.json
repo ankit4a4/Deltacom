@@ -216,9 +216,9 @@
     {
       "id": "fire-protection",
       "slug": "fire-protection",
-      "title": "Fire Protection Systems",
+      "title": "Intrusion & Fire Protection Systems",
       "subtitle": "Life Safety",
-      "description": "Critical fire protection with rapid response systems - because fire doubles in size every minute, timing is everything.",
+      "description": "Critical Intrusion & Fire Protection with rapid response systems - because fire doubles in size every minute, timing is everything.",
       "shortDescription": "Rapid fire detection and suppression systems",
       "accent": "from-red-400 to-red-600",
       "icon": "Flame",
@@ -274,7 +274,7 @@
         "monitoring": "24/7 central station monitoring"
       },
       "caseStudy": {
-        "title": "Data Center Fire Protection",
+        "title": "Data Center Intrusion & Fire Protection",
         "description": "Installed clean agent suppression system in critical government data center",
         "results": [
           "Protected $50M in critical infrastructure",

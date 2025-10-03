@@ -47,10 +47,10 @@ const SERVICES_DATA = [
   {
     id: "fire-protection",
     slug: "/services/fire-protection",
-    title: "Fire Protection",
+    title: "Intrusion & Fire Protection",
     subtitle: "Safety Systems",
     description:
-      "Critical fire protection with rapid response - fire doubles in size every minute.",
+      "Critical Intrusion & Fire Protection with rapid response - fire doubles in size every minute.",
     icon: BellElectric,
     backgroundImage: "/images/services/fire.jpg",
   },

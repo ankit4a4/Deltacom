@@ -79,7 +79,7 @@ const SecuritySolutions = () => {
     },
     {
       icon: Flame,
-      title: "Fire Protection",
+      title: "Intrusion & Fire Protection",
       description:
         "Complete fire safety systems with detection, suppression, and emergency notification capabilities.",
       features: [

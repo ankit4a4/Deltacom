@@ -15,7 +15,7 @@ const FireProtectionContent = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#013a63] mb-4">
-            Fire Protection Systems & Solutions
+            Intrusion & Fire Protection Systems & Solutions
           </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
             Comprehensive fire safety solutions designed to protect lives,
@@ -27,13 +27,13 @@ const FireProtectionContent = () => {
         {/* SEO Content Section */}
         <div className="mb-16 bg-gray-50 rounded-lg p-8">
           <h3 className="text-2xl font-bold text-[#013a63] mb-6">
-            Professional Fire Protection Services
+            Professional Intrusion & Fire Protection Services
           </h3>
           <p className="text-slate-700 mb-6 leading-relaxed">
-            Deltacom Security provides comprehensive fire protection systems including fire alarm 
+            Deltacom Security provides comprehensive Intrusion & Fire Protection systems including fire alarm 
             installation, automatic sprinkler systems, fire suppression systems, and emergency 
             lighting for commercial, industrial, and institutional facilities. Our NFPA-certified 
-            fire protection engineers design, install, and maintain fire safety systems that protect 
+            Intrusion & Fire Protection engineers design, install, and maintain fire safety systems that protect 
             lives and property.
           </p>
           
@@ -131,7 +131,7 @@ const FireProtectionContent = () => {
         {/* Fire Safety Statistics */}
         <div className="bg-red-50 rounded-lg p-8 mb-16">
           <h3 className="text-2xl font-bold text-[#013a63] text-center mb-8">
-            Why Fire Protection Matters
+            Why Intrusion & Fire Protection Matters
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
             <div>
@@ -160,8 +160,8 @@ const FireProtectionContent = () => {
             Fire Safety Assessment & Design
           </h3>
           <p className="text-slate-600 mb-6 max-w-2xl mx-auto">
-            Protect your people and property with a comprehensive fire protection system. 
-            Our certified fire protection engineers will design a system that meets your specific needs and code requirements.
+            Protect your people and property with a comprehensive Intrusion & Fire Protection system. 
+            Our certified Intrusion & Fire Protection engineers will design a system that meets your specific needs and code requirements.
           </p>
           <div className="space-y-3 mb-6">
             <div className="flex items-center justify-center">

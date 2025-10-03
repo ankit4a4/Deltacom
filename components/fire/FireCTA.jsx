@@ -32,7 +32,7 @@ const FireCTA = () => {
           Don&apos;t Wait - Fire Won&apos;t Wait
         </h2>
         <p className="text-xl text-gray-600 mb-8">
-          Every facility needs proper fire protection. Get a professional
+          Every facility needs proper Intrusion & Fire Protection. Get a professional
           assessment and ensure your people and property are protected.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

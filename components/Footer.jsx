@@ -53,7 +53,7 @@ const Footer = () => {
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about' },
     { name: 'Commercial', href: '/commercial' },
-    { name: 'Fire Protection', href: '/fire' },
+    { name: 'Intrusion & Fire Protection', href: '/fire' },
     { name: 'Cyber Security', href: '/cybersecurity' },
     { name: 'Contact', href: '/contact' }
   ];
@@ -62,7 +62,7 @@ const Footer = () => {
     { name: 'Video Surveillance', href: '/services/video-surveillance' },
     { name: 'Access Control', href: '/services/access-control' },
     { name: 'Cybersecurity', href: '/services/cybersecurity' },
-    { name: 'Fire Protection', href: '/services/fire-protection' },
+    { name: 'Intrusion & Fire Protection', href: '/services/fire-protection' },
     { name: 'Networking', href: '/services/networking-solutions' },
     { name: 'Mobile Surveillance', href: '/services/mobile-surveillance' }
   ];

@@ -40,7 +40,7 @@ const FireHero = () => {
           height={100}
           width={100}
           src={HeroImage}
-          alt="Fire Protection Background"
+          alt="Intrusion & Fire Protection Background"
           className="w-full h-full object-cover"
         />
         {/* Black Overlay */}
@@ -60,14 +60,14 @@ const FireHero = () => {
 
           {/* Heading */}
           <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 animate-section">
-            <span>Fire Protection</span> Systems
+            <span>Intrusion & Fire Protection</span> Systems
           </h1>
 
           {/* Paragraph */}
           <p className="text-xl text-gray-200 max-w-3xl mx-auto leading-relaxed mb-8 animate-section">
             Because fire doubles in size every minute, rapid detection and
             response can mean the difference between a minor incident and a
-            catastrophic loss. Our fire protection systems provide critical
+            catastrophic loss. Our Intrusion & Fire Protection systems provide critical
             timing advantages.
           </p>
 

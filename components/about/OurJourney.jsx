@@ -40,7 +40,7 @@ const OurJourney = () => {
     { year: "2016", event: "Launched Smart Home Security Solutions" },
     { year: "2018", event: "Expanded to Cybersecurity Services" },
     { year: "2020", event: "500+ Installations Completed" },
-    { year: "2022", event: "Added Fire Protection Systems" },
+    { year: "2022", event: "Added Intrusion & Fire Protection Systems" },
     { year: "2024", event: "1000+ Satisfied Clients" },
   ];
 

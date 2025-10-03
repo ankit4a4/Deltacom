@@ -32,7 +32,7 @@ const ProtectionApplications = () => {
     {
       title: "Commercial Buildings",
       description:
-        "Comprehensive fire protection for office buildings, retail spaces, and commercial facilities.",
+        "Comprehensive Intrusion & Fire Protection for office buildings, retail spaces, and commercial facilities.",
       icon: "🏢",
     },
     {
@@ -50,13 +50,13 @@ const ProtectionApplications = () => {
     {
       title: "Educational Institutions",
       description:
-        "School and university fire protection systems with emergency evacuation capabilities.",
+        "School and university Intrusion & Fire Protection systems with emergency evacuation capabilities.",
       icon: "🏫",
     },
     {
       title: "Residential Properties",
       description:
-        "Multi-family housing and residential complex fire protection solutions.",
+        "Multi-family housing and residential complex Intrusion & Fire Protection solutions.",
       icon: "🏠",
     },
     {
@@ -72,10 +72,10 @@ const ProtectionApplications = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate-section">
           <h2 className="text-3xl lg:text-4xl font-bold text-[#013a63] mb-6">
-            Fire Protection Applications
+            Intrusion & Fire Protection Applications
           </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            Specialized fire protection solutions tailored to different facility
+            Specialized Intrusion & Fire Protection solutions tailored to different facility
             types and risk profiles.
           </p>
         </div>

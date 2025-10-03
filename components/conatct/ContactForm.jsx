@@ -35,7 +35,7 @@ const ContactForm = () => {
     "Video Surveillance (CCTV)",
     "Access Control Systems",
     "Cybersecurity & IT Services",
-    "Fire Protection Systems",
+    "Intrusion & Fire Protection Systems",
     "Networking Solutions",
     "Mobile Surveillance Units",
     "Other / Multiple Services",

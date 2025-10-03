@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata = {
   title: 'Deltacom Security - Reliable Security Systems in Washington DC Metro',
   description: 'The Most Reliable Security System Provider In The Washington, DC Metro Area. Smart, end-to-end security and IT solutions.',
-  keywords: 'security systems, CCTV, access control, cybersecurity, fire protection, Washington DC',
+  keywords: 'security systems, CCTV, access control, cybersecurity, Intrusion & Fire Protection, Washington DC',
 };
 
 export default function RootLayout({

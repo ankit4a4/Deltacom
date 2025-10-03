@@ -93,10 +93,10 @@ const RapidResponse = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate-section">
           <h2 className="text-3xl lg:text-4xl font-bold text-[#013a63] mb-6">
-            Fire Protection Systems
+            Intrusion & Fire Protection Systems
           </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            From detection to suppression, our integrated fire protection
+            From detection to suppression, our integrated Intrusion & Fire Protection
             solutions provide complete coverage and peace of mind for your
             facility.
           </p>

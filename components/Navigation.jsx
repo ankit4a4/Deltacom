@@ -29,7 +29,7 @@ const Navigation = () => {
     { name: "Home", href: "/" },
     { name: "About", href: "/about" }, // Make sure this matches your actual route
     { name: "Commercial", href: "/commercial-security" }, // Update if needed
-    { name: "Fire Protection", href: "/fire-protection" }, // Update if needed
+    { name: "Intrusion & Fire Protection", href: "/fire-protection" }, // Update if needed
     { name: "Cyber Security", href: "/cyber-security" }, // Update if needed
     { name: "Contact", href: "/contact" },
   ];

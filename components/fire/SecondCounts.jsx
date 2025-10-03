@@ -61,7 +61,7 @@ const SecondCounts = () => {
           </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto mb-12">
             Fire emergencies develop rapidly. Understanding the timeline is
-            critical to effective fire protection planning.
+            critical to effective Intrusion & Fire Protection planning.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -84,10 +84,10 @@ const SecondCounts = () => {
         <div className="animate-section bg-[#0F172A] rounded-3xl p-8 lg:p-12 text-center text-white">
           <ShieldAlert className="h-16 w-16 mx-auto mb-6 text-orange-200" />
           <h3 className="text-2xl lg:text-3xl font-bold mb-4">
-            Rapid Response Fire Protection
+            Rapid Response Intrusion & Fire Protection
           </h3>
           <p className="text-lg text-gray-400 font-light leading-relaxed">
-            {`Deltacom Security's advanced fire protection systems deliver rapid
+            {`Deltacom Security's advanced Intrusion & Fire Protection systems deliver rapid
             fire detection and immediate emergency response to safeguard lives
             and property. Our state-of-the-art fire alarm systems, automatic
             sprinkler installations, and intelligent smoke detection technology
@@ -99,7 +99,7 @@ const SecondCounts = () => {
             evacuation and emergency response. Trust Deltacom Security's
             comprehensive fire safety systems to protect your commercial,
             industrial, or institutional facility with proven reliability.
-            Contact our fire protection experts today for a professional fire
+            Contact our Intrusion & Fire Protection experts today for a professional fire
             safety assessment and custom system design.`}
           </p>
         </div>

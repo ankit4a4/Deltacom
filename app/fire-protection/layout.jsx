@@ -5,27 +5,27 @@ const siteUrl =
 const pageUrl = `${siteUrl}/fire-protection`;
 
 export const metadata = {
-  title: "Fire Protection & Emergency Response Systems for Total Safety",
+  title: "Intrusion & Fire Protection & Emergency Response Systems for Total Safety",
   description:
-    "Comprehensive fire protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
+    "Comprehensive Intrusion & Fire Protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
   keywords:
-    "fire protection systems, fire alarm systems, sprinkler systems, fire detection, fire suppression, smoke detectors, fire extinguishers, emergency lighting, fire safety, commercial fire protection, deltacom security",
+    "Intrusion & Fire Protection systems, fire alarm systems, sprinkler systems, fire detection, fire suppression, smoke detectors, fire extinguishers, emergency lighting, fire safety, commercial Intrusion & Fire Protection, deltacom security",
   authors: [{ name: "Deltacom Security" }],
 
   // Open Graph
   openGraph: {
     type: "website",
     url: pageUrl,
-    title: "Fire Protection & Emergency Response Systems for Total Safety",
+    title: "Intrusion & Fire Protection & Emergency Response Systems for Total Safety",
     description:
-      "Comprehensive fire protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
+      "Comprehensive Intrusion & Fire Protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
     siteName: "Deltacom Security",
     images: [
       {
         url: `${siteUrl}/images/fire-protection-og-image.jpg`,
         width: 1200,
         height: 630,
-        alt: "Deltacom Security Fire Protection Systems - Complete Fire Safety Solutions",
+        alt: "Deltacom Security Intrusion & Fire Protection Systems - Complete Fire Safety Solutions",
       },
     ],
   },
@@ -34,9 +34,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title:
-      "Fire Protection Systems - Advanced Fire Safety Solutions | Deltacom Security",
+      "Intrusion & Fire Protection Systems - Advanced Fire Safety Solutions | Deltacom Security",
     description:
-      "Comprehensive fire protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
+      "Comprehensive Intrusion & Fire Protection systems for commercial and industrial buildings. Advanced fire alarms, sprinkler systems, detection, suppression, and emergency response solutions from Deltacom Security.",
     images: [`${siteUrl}/images/fire-protection-og-image.jpg`],
     creator: "@deltacomsecurity",
     site: "@deltacomsecurity",
@@ -65,22 +65,22 @@ export default function FireProtectionLayout({ children }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Service",
-            name: "Fire Protection Systems",
+            name: "Intrusion & Fire Protection Systems",
             description:
-              "Comprehensive fire protection systems including fire alarms, sprinkler systems, detection, suppression, and emergency response solutions for commercial and industrial buildings.",
+              "Comprehensive Intrusion & Fire Protection systems including fire alarms, sprinkler systems, detection, suppression, and emergency response solutions for commercial and industrial buildings.",
             provider: {
               "@type": "Organization",
               name: "Deltacom Security",
               url: siteUrl,
             },
-            serviceType: "Fire Protection Services",
+            serviceType: "Intrusion & Fire Protection Services",
             areaServed: {
               "@type": "Place",
               name: "Your Service Area", // Update with your actual service area
             },
             hasOfferCatalog: {
               "@type": "OfferCatalog",
-              name: "Fire Protection Systems",
+              name: "Intrusion & Fire Protection Systems",
               itemListElement: [
                 {
                   "@type": "Offer",
@@ -156,7 +156,7 @@ export default function FireProtectionLayout({ children }) {
               {
                 "@type": "ListItem",
                 position: 3,
-                name: "Fire Protection Systems",
+                name: "Intrusion & Fire Protection Systems",
                 item: pageUrl,
               },
             ],
@@ -171,9 +171,9 @@ export default function FireProtectionLayout({ children }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "Deltacom Security - Fire Protection Systems",
+            name: "Deltacom Security - Intrusion & Fire Protection Systems",
             description:
-              "Professional fire protection systems provider specializing in fire alarms, sprinkler systems, detection, suppression, and emergency response solutions.",
+              "Professional Intrusion & Fire Protection systems provider specializing in fire alarms, sprinkler systems, detection, suppression, and emergency response solutions.",
             url: pageUrl,
             telephone: "+1-xxx-xxx-xxxx", // Update with actual phone
             email: "support@deltacomsecurity.com", // Update with actual email
@@ -198,7 +198,7 @@ export default function FireProtectionLayout({ children }) {
             },
             hasCredential: {
               "@type": "EducationalOccupationalCredential",
-              name: "Fire Protection System Certification",
+              name: "Intrusion & Fire Protection System Certification",
             },
           }),
         }}
@@ -211,9 +211,9 @@ export default function FireProtectionLayout({ children }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            name: "Fire Protection Systems",
+            name: "Intrusion & Fire Protection Systems",
             description:
-              "Complete fire protection solutions including detection, suppression, and emergency response systems",
+              "Complete Intrusion & Fire Protection solutions including detection, suppression, and emergency response systems",
             brand: {
               "@type": "Brand",
               name: "Deltacom Security",
